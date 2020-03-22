@@ -1,0 +1,7 @@
+python manage.py startproject wiluwebsite
+python manage.py startapp music
+python manage.py makemigrations
+python manage.py migrate
+python manage.py shell
+python manage.py runserver
+python manage.py help
